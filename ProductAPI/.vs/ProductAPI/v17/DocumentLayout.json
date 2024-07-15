@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\ProductCRUD\\ProductAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7AAEE3-4A94-4B59-A3D7-A9F7D2C908F6}|Product.Domain\\Product.Domain.csproj|d:\\projetos\\productcrud\\productapi\\product.domain\\entities\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7AAEE3-4A94-4B59-A3D7-A9F7D2C908F6}|Product.Domain\\Product.Domain.csproj|solutionrelative:product.domain\\entities\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A3FBCD-5D2C-4958-9027-6CA7A25C6E10}|ProductAPI\\Product.API.csproj|d:\\projetos\\productcrud\\productapi\\productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A3FBCD-5D2C-4958-9027-6CA7A25C6E10}|ProductAPI\\Product.API.csproj|solutionrelative:productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC77D04-589B-431D-B606-69CA5B0AA755}|Product.Application\\Product.Application.csproj|d:\\projetos\\productcrud\\productapi\\product.application\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC77D04-589B-431D-B606-69CA5B0AA755}|Product.Application\\Product.Application.csproj|solutionrelative:product.application\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProductCRUD\\ProductAPI\\Product.Domain\\Entities\\Enum.cs",
+              "RelativeDocumentMoniker": "Product.Domain\\Entities\\Enum.cs",
+              "ToolTip": "D:\\Projetos\\ProductCRUD\\ProductAPI\\Product.Domain\\Entities\\Enum.cs",
+              "RelativeToolTip": "Product.Domain\\Entities\\Enum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T23:43:16.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProductCRUD\\ProductAPI\\Product.Application\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Product.Application\\Service\\ProductService.cs",
+              "ToolTip": "D:\\Projetos\\ProductCRUD\\ProductAPI\\Product.Application\\Service\\ProductService.cs",
+              "RelativeToolTip": "Product.Application\\Service\\ProductService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwC8AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T22:08:54.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Projetos\\ProductCRUD\\ProductAPI\\ProductAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Projetos\\ProductCRUD\\ProductAPI\\ProductAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:51:23.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

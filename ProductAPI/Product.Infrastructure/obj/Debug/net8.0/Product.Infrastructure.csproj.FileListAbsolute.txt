@@ -1,0 +1,15 @@
+D:\Projetos\ProductCRUD\ProductAPI\Product.Infrastructure\bin\Debug\net8.0\Product.Infrastructure.deps.json
+D:\Projetos\ProductCRUD\ProductAPI\Product.Infrastructure\bin\Debug\net8.0\Product.Infrastructure.dll
+D:\Projetos\ProductCRUD\ProductAPI\Product.Infrastructure\bin\Debug\net8.0\Product.Infrastructure.pdb
+D:\Projetos\ProductCRUD\ProductAPI\Product.Infrastructure\bin\Debug\net8.0\Product.Domain.dll
+D:\Projetos\ProductCRUD\ProductAPI\Product.Infrastructure\bin\Debug\net8.0\Product.Domain.pdb
+D:\Projetos\ProductCRUD\ProductAPI\Product.Infrastructure\obj\Debug\net8.0\Product.Infrastructure.csproj.AssemblyReference.cache
+D:\Projetos\ProductCRUD\ProductAPI\Product.Infrastructure\obj\Debug\net8.0\Product.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ProductCRUD\ProductAPI\Product.Infrastructure\obj\Debug\net8.0\Product.Infrastructure.AssemblyInfoInputs.cache
+D:\Projetos\ProductCRUD\ProductAPI\Product.Infrastructure\obj\Debug\net8.0\Product.Infrastructure.AssemblyInfo.cs
+D:\Projetos\ProductCRUD\ProductAPI\Product.Infrastructure\obj\Debug\net8.0\Product.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projetos\ProductCRUD\ProductAPI\Product.Infrastructure\obj\Debug\net8.0\Product..29DFF9BD.Up2Date
+D:\Projetos\ProductCRUD\ProductAPI\Product.Infrastructure\obj\Debug\net8.0\Product.Infrastructure.dll
+D:\Projetos\ProductCRUD\ProductAPI\Product.Infrastructure\obj\Debug\net8.0\refint\Product.Infrastructure.dll
+D:\Projetos\ProductCRUD\ProductAPI\Product.Infrastructure\obj\Debug\net8.0\Product.Infrastructure.pdb
+D:\Projetos\ProductCRUD\ProductAPI\Product.Infrastructure\obj\Debug\net8.0\ref\Product.Infrastructure.dll

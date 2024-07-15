@@ -1,0 +1,11 @@
+D:\Projetos\ProductCRUD\ProductAPI\Product.Domain\bin\Debug\net8.0\Product.Domain.deps.json
+D:\Projetos\ProductCRUD\ProductAPI\Product.Domain\bin\Debug\net8.0\Product.Domain.dll
+D:\Projetos\ProductCRUD\ProductAPI\Product.Domain\bin\Debug\net8.0\Product.Domain.pdb
+D:\Projetos\ProductCRUD\ProductAPI\Product.Domain\obj\Debug\net8.0\Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ProductCRUD\ProductAPI\Product.Domain\obj\Debug\net8.0\Product.Domain.AssemblyInfoInputs.cache
+D:\Projetos\ProductCRUD\ProductAPI\Product.Domain\obj\Debug\net8.0\Product.Domain.AssemblyInfo.cs
+D:\Projetos\ProductCRUD\ProductAPI\Product.Domain\obj\Debug\net8.0\Product.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\ProductCRUD\ProductAPI\Product.Domain\obj\Debug\net8.0\Product.Domain.dll
+D:\Projetos\ProductCRUD\ProductAPI\Product.Domain\obj\Debug\net8.0\refint\Product.Domain.dll
+D:\Projetos\ProductCRUD\ProductAPI\Product.Domain\obj\Debug\net8.0\Product.Domain.pdb
+D:\Projetos\ProductCRUD\ProductAPI\Product.Domain\obj\Debug\net8.0\ref\Product.Domain.dll
